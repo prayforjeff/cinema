@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "RR";
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-span{
+    color: #000;
+    font-family: "RB";
+    font-size: 18px;
+}
+
+.header-nav-list{
+    display: flex;
+    gap: 15px;
+}
+
+.header-nav-link{
+    color: #3A3838;
+    font-family: "RB";
+    font-size: 18px; 
+    transition: 300ms;
+}
+
+.header-nav-link:hover{
+    color: #EF4423;
+}
+
+.main-top-item{
+    width: 25%;
+}
+
+.main-top-info{
+    padding: 8px 15px 15px 15px;
+}
+
+.main-top-item img{
+    display: block;
+    width: 100%;
+}
+
+.main-top-info h2{
+    color: #FFF;
+    font-family: "RB";
+    font-size: 19px;
+    margin-bottom: 8px;
+}
+
+.main-top-info p{
+    color: #EBEBEB;
+    font-family: "RR";
+    font-size: 16px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 6;
+        -webkit-box-orient: vertical;
+}
+
+.main-top{
+    display: flex;
+}
+
+.red{
+    background: #B71C1C;
+    
+}
+
+.violet{
+    background: #6A1B9A;
+}
+
+.blue{
+    background: #303F9F;
+}
+
+.green{
+    background: #00695C;
+}

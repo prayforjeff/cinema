@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "ARMTB";
+    src: url(../fonts/Arial\ Rounded\ MT\ Bold.ttf);
+}
+
+@font-face {
+    font-family: "ER";
+    src: url(../fonts/Elephant\ Regular.ttf);
+}
+
+@font-face {
+    font-family: "FTR";
+    src: url(../fonts/FanwoodText-Regular.ttf);
+}
+
+@font-face {
+    font-family: "PM";
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: "PR";
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "PSB";
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "RSCSB";
+    src: url(../fonts/RobotoSerif\ Condensed-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "RSB";
+    src: url(../fonts/RobotoSlab-Bold.ttf);
+}
+
+@font-face {
+    font-family: "RSM";
+    src: url(../fonts/RobotoSlab-Medium.ttf);
+}
+
+@font-face {
+    font-family: "RUFB";
+    src: url(../fonts/Rufina-Bold.ttf);
+}
